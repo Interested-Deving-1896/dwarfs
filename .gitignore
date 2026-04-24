@@ -18,3 +18,4 @@
 .vs/
 out/
 CMakeSettings.json
+.npmrc
